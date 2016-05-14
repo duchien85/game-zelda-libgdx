@@ -32,7 +32,7 @@ gradle desktop:run
 
 
 ## Output
-![Preview](doc/gizelda.gif)
+![Preview](doc/zelda-libgdx.gif)
 
 ## How it was made
 First I had to download the **App Setup**
