@@ -39,24 +39,16 @@ First I had to download the **App Setup**
 
 [https://libgdx.badlogicgames.com/download.html](https://libgdx.badlogicgames.com/download.html)
 
-Then generate the project
-
-![Preview](doc/project-settings.png)
-
 And finally create the game using the **Tools**
 
 1. Tiled Map Editor
 	
 	[http://www.mapeditor.org](http://www.mapeditor.org)
 
-2. IntelliJ IDEA
 
-	[https://www.jetbrains.com/idea](https://www.jetbrains.com/idea)
+3. Sprites of **The Legend of Zelda: Link's Awakening**
 
-
-3. Sprites of **The Legend of Zelda: A Link to the Past**
-
-	[http://www.spriters-resource.com](http://www.spriters-resource.com/snes/legendofzeldaalinktothepast/sheet/58952/)
+	[http://www.spriters-resource.com](http://www.spriters-resource.com/game_boy_gbc/thelegendofzeldalinksawakening/)
 
 ## References
 
