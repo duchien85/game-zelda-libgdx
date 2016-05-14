@@ -7,8 +7,8 @@ gwt {
     minHeapSize="1G"
 
     src = files(file("src/")) // Needs to be in front of "modules" below.
-    modules 'br.polygon.game.gizelda.GdxDefinition'
-    devModules 'br.polygon.game.gizelda.GdxDefinitionSuperdev'
+    modules 'com.mursaat.zelda.GdxDefinition'
+    devModules 'com.mursaat.zelda.GdxDefinitionSuperdev'
     project.webAppDirName = 'webapp'
 
     compiler {
